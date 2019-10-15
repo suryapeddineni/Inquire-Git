@@ -1,4 +1,4 @@
-# deep-dive Into Git
+# Deep Dive Into Git
 
 #### Most used version control system (VCS) in software development
 
