@@ -1,6 +1,8 @@
-# Introduction to Git
+# deep-dive Into Git
 
-Git is a version control system.
+## Most used version control system in software development
+
+Git is a distributed version control system.
 Git is like Key value store
 
 - Key --> Hashof the data
